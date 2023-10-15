@@ -17,10 +17,10 @@ The project was based on open-source data made accessed online via Kaggle:
 https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/download?datasetVersionNumber=1
 
 ## Limitations
-Missing Data: There are gaps in the data for specific countries, which makes it difficult to conduct a continuous analysis for all countries over the specified period. Missing data can introduce bias into analysis.   
-Limited Factors: The Gallup Happiness Report examines a select set of factors influencing happiness, which may not capture the full spectrum of determinants that vary among individuals and regions worldwide. This limited scope could restrict the depth and comprehensiveness of the analysis.   
-Sample Bias: The sampling method used by Gallup to collect data may not always be fully representative of the entire population. Sample bias can affect the generalizability of the findings.   
-Data Quality: Data quality can vary between countries, same as Data collection process, affecting the reliability of comparisons. Some countries may have more robust data collection processes than others.
+*Missing Data*: There are gaps in the data for specific countries, which makes it difficult to conduct a continuous analysis for all countries over the specified period. Missing data can introduce bias into analysis.   
+*Limited Factors*: The Gallup Happiness Report examines a select set of factors influencing happiness, which may not capture the full spectrum of determinants that vary among individuals and regions worldwide. This limited scope could restrict the depth and comprehensiveness of the analysis.   
+*Sample Bias*: The sampling method used by Gallup to collect data may not always be fully representative of the entire population. Sample bias can affect the generalizability of the findings.   
+*Data Quality*: Data quality can vary between countries, same as Data collection process, affecting the reliability of comparisons. Some countries may have more robust data collection processes than others.
 
 
 
