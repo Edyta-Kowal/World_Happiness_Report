@@ -16,6 +16,15 @@ To comprehensively study and understand the factors influencing happiness levels
 The project was based on open-source data made accessed online via Kaggle:  
 https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors/download?datasetVersionNumber=1
 
+## Questions to explore
+1. What are the most and the least happy countries each year?
+2. Considering the average for all years, how does the ranking change?
+3. What are the most and least happy regions of world according to the World Happiness Report in last years?
+4. Did any countries experience significant changes in their happiness scores or rankings between the 2015 and 2019?
+5. How do the indicators affect the happines level?
+6. How are the indicators correlated?
+
+
 ## Limitations
 *Missing Data*: There are gaps in the data for specific countries, which makes it difficult to conduct a continuous analysis for all countries over the specified period. Missing data can introduce bias into analysis.   
 *Limited Factors*: The Gallup Happiness Report examines a select set of factors influencing happiness, which may not capture the full spectrum of determinants that vary among individuals and regions worldwide. This limited scope could restrict the depth and comprehensiveness of the analysis.   
